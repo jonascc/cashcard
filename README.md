@@ -1,0 +1,1 @@
+This is a sample REST API with Spring Boot taken from [Spring Academy](https://spring.academy/courses/building-a-rest-api-with-spring-boot).
